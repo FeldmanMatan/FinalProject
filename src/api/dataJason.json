@@ -1,0 +1,3368 @@
+[{
+  "_id": {
+    "$oid": "5fab9b9a51ee2526885daf55"
+  },
+  "name": "Michael\n",
+  "id": "279061648",
+  "department": "software",
+  "fitness": 16,
+  "coursesProvide": [
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9b51ee2526885daf56"
+  },
+  "name": "Christopher\n",
+  "id": "212007205",
+  "department": "software",
+  "fitness": 34,
+  "coursesProvide": [
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        1,
+        2,
+        3,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9b51ee2526885daf57"
+  },
+  "name": "Jessica\n",
+  "id": "306334848",
+  "department": "mechanics",
+  "fitness": 17,
+  "coursesProvide": [
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "wednesday",
+      "hours": [
+        1
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9b51ee2526885daf58"
+  },
+  "name": "Matthew\n",
+  "id": "283884954",
+  "department": "mechanics",
+  "fitness": 22,
+  "coursesProvide": [
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "tuesday",
+      "hours": [
+        5,
+        6
+      ]
+    },
+    {
+      "day": "sunday",
+      "hours": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9b51ee2526885daf59"
+  },
+  "name": "Ashley\n",
+  "id": "344324673",
+  "department": "mechanics",
+  "fitness": 29,
+  "coursesProvide": [
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "wednesday",
+      "hours": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "sunday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9b51ee2526885daf5a"
+  },
+  "name": "Jennifer\n",
+  "id": "365235887",
+  "department": "mechanics",
+  "fitness": 24,
+  "coursesProvide": [
+    "algebra",
+    "probability",
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9b51ee2526885daf5b"
+  },
+  "name": "Joshua\n",
+  "id": "397695935",
+  "department": "mechanics",
+  "fitness": 23,
+  "coursesProvide": [
+    "mishdif",
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        5,
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9b51ee2526885daf5c"
+  },
+  "name": "Amanda\n",
+  "id": "271763384",
+  "department": "mechanics",
+  "fitness": 23,
+  "coursesProvide": [
+    "probability",
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "tuesday",
+      "hours": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9c51ee2526885daf5d"
+  },
+  "name": "Daniel\n",
+  "id": "354714038",
+  "department": "software",
+  "fitness": 15,
+  "coursesProvide": [
+    "probability",
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9c51ee2526885daf5e"
+  },
+  "name": "David\n",
+  "id": "287978520",
+  "department": "mechanics",
+  "fitness": 16,
+  "coursesProvide": [
+    "mishdif",
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        9,
+        10
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9c51ee2526885daf5f"
+  },
+  "name": "James\n",
+  "id": "376942354",
+  "department": "software",
+  "fitness": 15,
+  "coursesProvide": [
+    "calculus",
+    "mishdif",
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9c51ee2526885daf60"
+  },
+  "name": "Robert\n",
+  "id": "348844014",
+  "department": "software",
+  "fitness": 21,
+  "coursesProvide": [
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "thursday",
+      "hours": [
+        5
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        1,
+        2
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9c51ee2526885daf61"
+  },
+  "name": "John\n",
+  "id": "219596699",
+  "department": "software",
+  "fitness": 22,
+  "coursesProvide": [
+    "calculus",
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9c51ee2526885daf62"
+  },
+  "name": "Joseph\n",
+  "id": "398000353",
+  "department": "mechanics",
+  "fitness": 21,
+  "coursesProvide": [
+    "mishdif",
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9c51ee2526885daf63"
+  },
+  "name": "Andrew\n",
+  "id": "241897167",
+  "department": "mechanics",
+  "fitness": 30,
+  "coursesProvide": [
+    "mishdif",
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9c51ee2526885daf64"
+  },
+  "name": "Ryan\n",
+  "id": "381500166",
+  "department": "mechanics",
+  "fitness": 33,
+  "coursesProvide": [
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9c51ee2526885daf65"
+  },
+  "name": "Brandon\n",
+  "id": "356294143",
+  "department": "mechanics",
+  "fitness": 28,
+  "coursesProvide": [
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        1,
+        2,
+        3,
+        4,
+        9
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        9,
+        10,
+        11
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9c51ee2526885daf66"
+  },
+  "name": "Jason\n",
+  "id": "342853102",
+  "department": "software",
+  "fitness": 26,
+  "coursesProvide": [
+    "probability",
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        1,
+        2,
+        3,
+        8
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9c51ee2526885daf67"
+  },
+  "name": "Justin\n",
+  "id": "305913024",
+  "department": "mechanics",
+  "fitness": 22,
+  "coursesProvide": [
+    "calculus",
+    "algebra",
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        5
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9d51ee2526885daf68"
+  },
+  "name": "Sarah\n",
+  "id": "209393100",
+  "department": "software",
+  "fitness": 26,
+  "coursesProvide": [
+    "calculus",
+    "probability",
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "thursday",
+      "hours": [
+        9
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        1
+      ]
+    },
+    {
+      "day": "sunday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9d51ee2526885daf69"
+  },
+  "name": "William\n",
+  "id": "330346819",
+  "department": "mechanics",
+  "fitness": 30,
+  "coursesProvide": [
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "wednesday",
+      "hours": [
+        9
+      ]
+    },
+    {
+      "day": "sunday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9d51ee2526885daf6a"
+  },
+  "name": "Jonathan\n",
+  "id": "252360563",
+  "department": "mechanics",
+  "fitness": 0,
+  "coursesProvide": [
+    "mishdif"
+  ],
+  "daysProvide": []
+},{
+  "_id": {
+    "$oid": "5fab9b9d51ee2526885daf6b"
+  },
+  "name": "Stephanie\n",
+  "id": "274924333",
+  "department": "software",
+  "fitness": 7,
+  "coursesProvide": [
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9d51ee2526885daf6c"
+  },
+  "name": "Brian\n",
+  "id": "388526524",
+  "department": "mechanics",
+  "fitness": 27,
+  "coursesProvide": [
+    "mishdif",
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9d51ee2526885daf6d"
+  },
+  "name": "Nicole\n",
+  "id": "256892780",
+  "department": "software",
+  "fitness": 8,
+  "coursesProvide": [
+    "algebra",
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "wednesday",
+      "hours": [
+        5,
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9d51ee2526885daf6e"
+  },
+  "name": "Nicholas\n",
+  "id": "257416110",
+  "department": "mechanics",
+  "fitness": 32,
+  "coursesProvide": [
+    "probability",
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "wednesday",
+      "hours": [
+        1
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        1
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        1,
+        2,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "day": "sunday",
+      "hours": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9d51ee2526885daf6f"
+  },
+  "name": "Anthony\n",
+  "id": "215197176",
+  "department": "software",
+  "fitness": 12,
+  "coursesProvide": [
+    "mishdif",
+    "algebra",
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "tuesday",
+      "hours": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9e51ee2526885daf70"
+  },
+  "name": "Heather\n",
+  "id": "330954596",
+  "department": "mechanics",
+  "fitness": 12,
+  "coursesProvide": [
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "wednesday",
+      "hours": [
+        9
+      ]
+    },
+    {
+      "day": "sunday",
+      "hours": [
+        1
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9e51ee2526885daf71"
+  },
+  "name": "Eric\n",
+  "id": "347343776",
+  "department": "mechanics",
+  "fitness": 0,
+  "coursesProvide": [
+    "calculus",
+    "probability",
+    "algebra",
+    "mishdif"
+  ],
+  "daysProvide": []
+},{
+  "_id": {
+    "$oid": "5fab9b9e51ee2526885daf72"
+  },
+  "name": "Elizabeth\n",
+  "id": "229335161",
+  "department": "software",
+  "fitness": 6,
+  "coursesProvide": [
+    "algebra",
+    "probability",
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        1
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9e51ee2526885daf73"
+  },
+  "name": "Adam\n",
+  "id": "204096551",
+  "department": "software",
+  "fitness": 35,
+  "coursesProvide": [
+    "algebra",
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        1,
+        2,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9e51ee2526885daf74"
+  },
+  "name": "Megan\n",
+  "id": "395800087",
+  "department": "mechanics",
+  "fitness": 23,
+  "coursesProvide": [
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "wednesday",
+      "hours": [
+        1
+      ]
+    },
+    {
+      "day": "sunday",
+      "hours": [
+        1,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9e51ee2526885daf75"
+  },
+  "name": "Melissa\n",
+  "id": "206308480",
+  "department": "software",
+  "fitness": 21,
+  "coursesProvide": [
+    "calculus",
+    "mishdif",
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        9
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9e51ee2526885daf76"
+  },
+  "name": "Kevin\n",
+  "id": "287991071",
+  "department": "mechanics",
+  "fitness": 0,
+  "coursesProvide": [
+    "algebra",
+    "calculus"
+  ],
+  "daysProvide": []
+},{
+  "_id": {
+    "$oid": "5fab9b9e51ee2526885daf77"
+  },
+  "name": "Steven\n",
+  "id": "270240144",
+  "department": "mechanics",
+  "fitness": 20,
+  "coursesProvide": [
+    "probability",
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        9,
+        10,
+        11
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9f51ee2526885daf78"
+  },
+  "name": "Thomas\n",
+  "id": "351514650",
+  "department": "mechanics",
+  "fitness": 14,
+  "coursesProvide": [
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        5
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        5,
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9f51ee2526885daf79"
+  },
+  "name": "Timothy\n",
+  "id": "310859859",
+  "department": "software",
+  "fitness": 7,
+  "coursesProvide": [
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "wednesday",
+      "hours": [
+        5,
+        6
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9f51ee2526885daf7a"
+  },
+  "name": "Christina\n",
+  "id": "318507143",
+  "department": "mechanics",
+  "fitness": 21,
+  "coursesProvide": [
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        5,
+        6
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9f51ee2526885daf7b"
+  },
+  "name": "Kyle\n",
+  "id": "379838867",
+  "department": "mechanics",
+  "fitness": 15,
+  "coursesProvide": [
+    "algebra",
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9f51ee2526885daf7c"
+  },
+  "name": "Rachel\n",
+  "id": "245017085",
+  "department": "mechanics",
+  "fitness": 14,
+  "coursesProvide": [
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9f51ee2526885daf7d"
+  },
+  "name": "Laura\n",
+  "id": "253823014",
+  "department": "mechanics",
+  "fitness": 26,
+  "coursesProvide": [
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "wednesday",
+      "hours": [
+        5
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        1,
+        2,
+        3,
+        4,
+        9,
+        10
+      ]
+    },
+    {
+      "day": "sunday",
+      "hours": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9f51ee2526885daf7e"
+  },
+  "name": "Lauren\n",
+  "id": "346457987",
+  "department": "mechanics",
+  "fitness": 23,
+  "coursesProvide": [
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "tuesday",
+      "hours": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "sunday",
+      "hours": [
+        5,
+        6
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9f51ee2526885daf7f"
+  },
+  "name": "Amber\n",
+  "id": "398488438",
+  "department": "mechanics",
+  "fitness": 41,
+  "coursesProvide": [
+    "algebra",
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        9,
+        10
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9b9f51ee2526885daf80"
+  },
+  "name": "Brittany\n",
+  "id": "263740693",
+  "department": "software",
+  "fitness": 29,
+  "coursesProvide": [
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "thursday",
+      "hours": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba051ee2526885daf81"
+  },
+  "name": "Danielle\n",
+  "id": "319932543",
+  "department": "software",
+  "fitness": 14,
+  "coursesProvide": [
+    "mishdif",
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        5,
+        6
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba051ee2526885daf82"
+  },
+  "name": "Richard\n",
+  "id": "355699800",
+  "department": "software",
+  "fitness": 18,
+  "coursesProvide": [
+    "algebra",
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        5,
+        6
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba051ee2526885daf83"
+  },
+  "name": "Kimberly\n",
+  "id": "367706274",
+  "department": "software",
+  "fitness": 23,
+  "coursesProvide": [
+    "probability",
+    "calculus",
+    "algebra",
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        5,
+        6
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba051ee2526885daf84"
+  },
+  "name": "Jeffrey\n",
+  "id": "353479810",
+  "department": "mechanics",
+  "fitness": 7,
+  "coursesProvide": [
+    "mishdif",
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "thursday",
+      "hours": [
+        9,
+        10
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba051ee2526885daf85"
+  },
+  "name": "Amy\n",
+  "id": "292841826",
+  "department": "software",
+  "fitness": 0,
+  "coursesProvide": [
+    "calculus"
+  ],
+  "daysProvide": []
+},{
+  "_id": {
+    "$oid": "5fab9ba051ee2526885daf86"
+  },
+  "name": "Crystal\n",
+  "id": "390546943",
+  "department": "software",
+  "fitness": 26,
+  "coursesProvide": [
+    "mishdif",
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "tuesday",
+      "hours": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba051ee2526885daf87"
+  },
+  "name": "Michelle\n",
+  "id": "250853128",
+  "department": "mechanics",
+  "fitness": 14,
+  "coursesProvide": [
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba051ee2526885daf88"
+  },
+  "name": "Tiffany\n",
+  "id": "304385109",
+  "department": "mechanics",
+  "fitness": 19,
+  "coursesProvide": [
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "thursday",
+      "hours": [
+        5
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        1
+      ]
+    },
+    {
+      "day": "sunday",
+      "hours": [
+        5,
+        6
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba051ee2526885daf89"
+  },
+  "name": "Jeremy\n",
+  "id": "300310556",
+  "department": "mechanics",
+  "fitness": 30,
+  "coursesProvide": [
+    "algebra",
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        1,
+        2,
+        3,
+        4,
+        9,
+        10
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        1,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba051ee2526885daf8a"
+  },
+  "name": "Benjamin\n",
+  "id": "207060461",
+  "department": "software",
+  "fitness": 29,
+  "coursesProvide": [
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba151ee2526885daf8b"
+  },
+  "name": "Mark\n",
+  "id": "246641456",
+  "department": "software",
+  "fitness": 23,
+  "coursesProvide": [
+    "algebra",
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba151ee2526885daf8c"
+  },
+  "name": "Emily\n",
+  "id": "250301389",
+  "department": "mechanics",
+  "fitness": 0,
+  "coursesProvide": [
+    "calculus"
+  ],
+  "daysProvide": []
+},{
+  "_id": {
+    "$oid": "5fab9ba151ee2526885daf8d"
+  },
+  "name": "Aaron\n",
+  "id": "308231641",
+  "department": "software",
+  "fitness": 13,
+  "coursesProvide": [
+    "probability",
+    "algebra",
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "wednesday",
+      "hours": [
+        9
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba151ee2526885daf8e"
+  },
+  "name": "Charles\n",
+  "id": "218537521",
+  "department": "software",
+  "fitness": 22,
+  "coursesProvide": [
+    "algebra",
+    "probability",
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "wednesday",
+      "hours": [
+        1
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba151ee2526885daf8f"
+  },
+  "name": "Rebecca\n",
+  "id": "269469690",
+  "department": "mechanics",
+  "fitness": 23,
+  "coursesProvide": [
+    "probability",
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba151ee2526885daf90"
+  },
+  "name": "Jacob\n",
+  "id": "381824758",
+  "department": "software",
+  "fitness": 18,
+  "coursesProvide": [
+    "probability",
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        1,
+        2,
+        3,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba151ee2526885daf91"
+  },
+  "name": "Stephen\n",
+  "id": "304600224",
+  "department": "mechanics",
+  "fitness": 9,
+  "coursesProvide": [
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "thursday",
+      "hours": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba151ee2526885daf92"
+  },
+  "name": "Patrick\n",
+  "id": "319336091",
+  "department": "software",
+  "fitness": 38,
+  "coursesProvide": [
+    "calculus",
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        1,
+        2,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba251ee2526885daf93"
+  },
+  "name": "Sean\n",
+  "id": "217393033",
+  "department": "mechanics",
+  "fitness": 22,
+  "coursesProvide": [
+    "algebra",
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "sunday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba251ee2526885daf94"
+  },
+  "name": "Erin\n",
+  "id": "257788280",
+  "department": "mechanics",
+  "fitness": 7,
+  "coursesProvide": [
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        9,
+        10
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba251ee2526885daf95"
+  },
+  "name": "Zachary\n",
+  "id": "320732851",
+  "department": "mechanics",
+  "fitness": 35,
+  "coursesProvide": [
+    "algebra",
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "thursday",
+      "hours": [
+        9
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        5
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        5,
+        6
+      ]
+    },
+    {
+      "day": "sunday",
+      "hours": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba251ee2526885daf96"
+  },
+  "name": "Jamie\n",
+  "id": "251881878",
+  "department": "software",
+  "fitness": 29,
+  "coursesProvide": [
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        9,
+        10
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba251ee2526885daf97"
+  },
+  "name": "Kelly\n",
+  "id": "350557051",
+  "department": "software",
+  "fitness": 23,
+  "coursesProvide": [
+    "calculus",
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        1,
+        2
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba251ee2526885daf98"
+  },
+  "name": "Samantha\n",
+  "id": "340758724",
+  "department": "software",
+  "fitness": 22,
+  "coursesProvide": [
+    "mishdif",
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        1
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba251ee2526885daf99"
+  },
+  "name": "Nathan\n",
+  "id": "331639543",
+  "department": "mechanics",
+  "fitness": 34,
+  "coursesProvide": [
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "wednesday",
+      "hours": [
+        1,
+        6
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        1,
+        2,
+        3,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba351ee2526885daf9a"
+  },
+  "name": "Sara\n",
+  "id": "226496233",
+  "department": "mechanics",
+  "fitness": 7,
+  "coursesProvide": [
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "wednesday",
+      "hours": [
+        5,
+        6
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba351ee2526885daf9b"
+  },
+  "name": "Dustin\n",
+  "id": "242606550",
+  "department": "mechanics",
+  "fitness": 33,
+  "coursesProvide": [
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        9,
+        10
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba351ee2526885daf9c"
+  },
+  "name": "Paul\n",
+  "id": "214379924",
+  "department": "software",
+  "fitness": 10,
+  "coursesProvide": [
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba351ee2526885daf9d"
+  },
+  "name": "Angela\n",
+  "id": "329486995",
+  "department": "mechanics",
+  "fitness": 41,
+  "coursesProvide": [
+    "mishdif",
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba351ee2526885daf9e"
+  },
+  "name": "Tyler\n",
+  "id": "215309786",
+  "department": "software",
+  "fitness": 39,
+  "coursesProvide": [
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        1,
+        6
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        1,
+        2,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba351ee2526885daf9f"
+  },
+  "name": "Scott\n",
+  "id": "213752211",
+  "department": "mechanics",
+  "fitness": 31,
+  "coursesProvide": [
+    "algebra",
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba351ee2526885dafa0"
+  },
+  "name": "Katherine\n",
+  "id": "215009832",
+  "department": "software",
+  "fitness": 17,
+  "coursesProvide": [
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba351ee2526885dafa1"
+  },
+  "name": "Andrea\n",
+  "id": "215161810",
+  "department": "mechanics",
+  "fitness": 7,
+  "coursesProvide": [
+    "mishdif",
+    "probability",
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "thursday",
+      "hours": [
+        5,
+        6
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba351ee2526885dafa2"
+  },
+  "name": "Gregory\n",
+  "id": "350819513",
+  "department": "mechanics",
+  "fitness": 14,
+  "coursesProvide": [
+    "algebra",
+    "mishdif",
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba351ee2526885dafa3"
+  },
+  "name": "Erica\n",
+  "id": "286041608",
+  "department": "mechanics",
+  "fitness": 9,
+  "coursesProvide": [
+    "mishdif",
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba451ee2526885dafa4"
+  },
+  "name": "Mary\n",
+  "id": "325028838",
+  "department": "software",
+  "fitness": 7,
+  "coursesProvide": [
+    "calculus",
+    "mishdif",
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba451ee2526885dafa5"
+  },
+  "name": "Travis\n",
+  "id": "277653154",
+  "department": "software",
+  "fitness": 23,
+  "coursesProvide": [
+    "mishdif",
+    "calculus",
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba451ee2526885dafa6"
+  },
+  "name": "Lisa\n",
+  "id": "399587907",
+  "department": "software",
+  "fitness": 20,
+  "coursesProvide": [
+    "algebra",
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "tuesday",
+      "hours": [
+        1,
+        2
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        1
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba451ee2526885dafa7"
+  },
+  "name": "Kenneth\n",
+  "id": "362806726",
+  "department": "software",
+  "fitness": 7,
+  "coursesProvide": [
+    "probability",
+    "calculus"
+  ],
+  "daysProvide": [
+    {
+      "day": "tuesday",
+      "hours": [
+        1,
+        2
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba451ee2526885dafa8"
+  },
+  "name": "Bryan\n",
+  "id": "318666407",
+  "department": "mechanics",
+  "fitness": 14,
+  "coursesProvide": [
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        5,
+        6
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba451ee2526885dafa9"
+  },
+  "name": "Lindsey\n",
+  "id": "210767757",
+  "department": "mechanics",
+  "fitness": 14,
+  "coursesProvide": [
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba451ee2526885dafaa"
+  },
+  "name": "Kristen\n",
+  "id": "316830773",
+  "department": "software",
+  "fitness": 9,
+  "coursesProvide": [
+    "calculus",
+    "mishdif",
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba451ee2526885dafab"
+  },
+  "name": "Jose\n",
+  "id": "263333402",
+  "department": "mechanics",
+  "fitness": 34,
+  "coursesProvide": [
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        1,
+        2
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba451ee2526885dafac"
+  },
+  "name": "Alexander\n",
+  "id": "375498485",
+  "department": "mechanics",
+  "fitness": 19,
+  "coursesProvide": [
+    "mishdif",
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "wednesday",
+      "hours": [
+        5
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        9
+      ]
+    },
+    {
+      "day": "sunday",
+      "hours": [
+        9,
+        10
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba551ee2526885dafad"
+  },
+  "name": "Jesse\n",
+  "id": "288397039",
+  "department": "mechanics",
+  "fitness": 17,
+  "coursesProvide": [
+    "calculus",
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        9
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba551ee2526885dafae"
+  },
+  "name": "Katie\n",
+  "id": "235908281",
+  "department": "software",
+  "fitness": 26,
+  "coursesProvide": [
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        9,
+        10
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        1,
+        2,
+        3,
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba551ee2526885dafaf"
+  },
+  "name": "Lindsay\n",
+  "id": "328607226",
+  "department": "mechanics",
+  "fitness": 23,
+  "coursesProvide": [
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "wednesday",
+      "hours": [
+        1,
+        2
+      ]
+    },
+    {
+      "day": "sunday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba551ee2526885dafb0"
+  },
+  "name": "Shannon\n",
+  "id": "297851307",
+  "department": "mechanics",
+  "fitness": 10,
+  "coursesProvide": [
+    "calculus",
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "thursday",
+      "hours": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba551ee2526885dafb1"
+  },
+  "name": "Vanessa\n",
+  "id": "310003181",
+  "department": "software",
+  "fitness": 14,
+  "coursesProvide": [
+    "algebra",
+    "probability",
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "wednesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba551ee2526885dafb2"
+  },
+  "name": "Courtney\n",
+  "id": "303511034",
+  "department": "software",
+  "fitness": 44,
+  "coursesProvide": [
+    "probability",
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba551ee2526885dafb3"
+  },
+  "name": "Christine\n",
+  "id": "224759430",
+  "department": "mechanics",
+  "fitness": 27,
+  "coursesProvide": [
+    "calculus",
+    "probability"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        5
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        5,
+        6
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "sunday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba551ee2526885dafb4"
+  },
+  "name": "Alicia\n",
+  "id": "379317188",
+  "department": "mechanics",
+  "fitness": 35,
+  "coursesProvide": [
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        1,
+        2,
+        3,
+        4,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "day": "thursday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba551ee2526885dafb5"
+  },
+  "name": "Cody\n",
+  "id": "287333499",
+  "department": "software",
+  "fitness": 14,
+  "coursesProvide": [
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "sunday",
+      "hours": [
+        5,
+        6
+      ]
+    },
+    {
+      "day": "monday",
+      "hours": [
+        6,
+        7
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba651ee2526885dafb6"
+  },
+  "name": "Allison\n",
+  "id": "355542148",
+  "department": "software",
+  "fitness": 20,
+  "coursesProvide": [
+    "calculus",
+    "mishdif"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        1
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        6,
+        7
+      ]
+    },
+    {
+      "day": "sunday",
+      "hours": [
+        9,
+        10
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fab9ba651ee2526885dafb7"
+  },
+  "name": "Bradley\n",
+  "id": "329866299",
+  "department": "software",
+  "fitness": 0,
+  "coursesProvide": [
+    "calculus",
+    "mishdif"
+  ],
+  "daysProvide": []
+},{
+  "_id": {
+    "$oid": "5fab9ba651ee2526885dafb8"
+  },
+  "name": "Samuel\n",
+  "id": "301435552",
+  "department": "software",
+  "fitness": 25,
+  "coursesProvide": [
+    "calculus",
+    "probability",
+    "algebra"
+  ],
+  "daysProvide": [
+    {
+      "day": "monday",
+      "hours": [
+        9
+      ]
+    },
+    {
+      "day": "wednesday",
+      "hours": [
+        9,
+        10
+      ]
+    },
+    {
+      "day": "tuesday",
+      "hours": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ]
+}]
